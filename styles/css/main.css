@@ -35,10 +35,6 @@ article.card .card_body .card_body_description {
   display: block;
 }
 
-img {
-  width: 50px;
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -68,4 +64,11 @@ div.container {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+div.attribution {
+  color: #1f3251;
+}
+div.attribution a {
+  color: #2e4876;
 }
